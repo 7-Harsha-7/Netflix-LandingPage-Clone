@@ -309,8 +309,9 @@ img {
 @media(max-width: 960px) {
     .showcase {
         height: 70vh;
+        color: rgb(41, 40, 40);
     }
-
+ 
     .hide-sm {
         display: none;
     }
