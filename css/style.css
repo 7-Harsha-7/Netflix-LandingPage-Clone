@@ -212,6 +212,7 @@ img {
 	max-width: 70%;
 	margin: 1rem auto;
 	overflow: auto;
+    background: var();
 }
 
 .footer, .footer a {
